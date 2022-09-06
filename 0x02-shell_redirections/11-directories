@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type d dot -not -name '.' | wc -l 
